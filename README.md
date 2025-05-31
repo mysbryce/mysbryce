@@ -8,8 +8,8 @@ I'm a professional FiveM resource coding and be a fullstack developer at the sam
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [fx.frame009@gmail.com](mailto:fx.frame009@gmail.com)
-* 🧠  I'm learning Network Security
-* 🤝  I'm open to collaborating on Networking
+* 🧠  I'm not learning anything at this time
+* 🤝  I'm open to collaborating on any topic
 
 ### Skills
 
