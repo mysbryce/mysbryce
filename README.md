@@ -2,9 +2,8 @@
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=mysbryce&label=Profile%20Views&color=0e75b6&style=flat
-" />
-
+<img src="https://komarev.com/ghpvc/?username=mysbryce&label=Profile%20Views&color=0e75b6&style=flat" />
+ 
 I'm a professional **FiveM resource coding** and be a fullstack developer at the same time.
 
 * 🌍  I'm based in Thailand
