@@ -4,7 +4,9 @@
 
 ### Profile Metadata
 
-<img src="https://komarev.com/ghpvc/?username=mysbryce&label=Profile%20Views&color=0e75b6&style=flat" />
+<a name="my-viewer-mysbryce">
+  <img src="https://komarev.com/ghpvc/?username=mysbryce&label=Profile%20Views&color=0e75b6&style=flat" />
+</a>
  
 I'm a professional **FiveM resource coding** and be a fullstack developer at the same time.
 
